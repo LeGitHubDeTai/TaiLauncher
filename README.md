@@ -1,3 +1,44 @@
 # TaiLauncher
 
-<img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="45%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="45%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105284/26aa7ad4-63ae-11e5-88b7-bc523a095c9f.png" width="45%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105288/28698fae-63ae-11e5-8ba7-a62360a8e8a7.png" width="45%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="45%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="45%"></img> 
+<img src="./images/2020-08-18_20.20.41.png" width="45%"></img>
+<img src="./images/2020-08-18_20.20.48.png" width="45%"></img>
+<img src="./images/2020-08-18_20.21.30.png" width="45%"></img>
+<img src="./images/2020-08-18_20.22.18.png" width="45%"></img>
+<img src="./images/2020-08-18_20.57.37.png" width="45%"></img>
+<img src="./images/2020-08-19_22.51.57.png" width="45%"></img> 
+<img src="./images/2020-08-19_22.52.21.png" width="45%"></img> 
+<img src="./images/2020-08-20_13.24.38.png" width="45%"></img> 
+<img src="./images/2020-08-21_00.58.50.png" width="45%"></img> 
+<img src="./images/2020-08-21_00.58.53.png" width="45%"></img> 
+<img src="./images/2020-08-21_00.59.03.png" width="45%"></img> 
+<img src="./images/2020-08-22_03.13.34.png" width="45%"></img> 
+<img src="./images/2020-08-25_22.58.39.png" width="45%"></img> 
+<img src="./images/2020-08-25_22.58.56.png" width="45%"></img> 
+<img src="./images/2020-08-25_22.59.10.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.00.12.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.00.18.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.00.25.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.00.28.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.00.31.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.00.42.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.01.21.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.01.31.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.01.32.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.01.36.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.01.59.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.06.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.12.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.16.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.18.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.24.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.27.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.32.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.39.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.02.46.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.11.29.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.11.41.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.13.41.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.13.45.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.13.46.png" width="45%"></img> 
+<img src="./images/2020-08-25_23.20.49.png" width="45%"></img> 
+<img src="./images/2020-08-26_22.35.47.png" width="45%"></img> 
