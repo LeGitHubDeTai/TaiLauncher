@@ -1,5 +1,6 @@
 # TaiLauncher
 
+<a src="https://github.com/LeGitHubDeTai/TaiLauncher/releases/download/v1.0.0/tailauncher.Setup.1.0.0.exe">TELECHARGER Windows</a><br/>
 <img src="./images/2020-08-18_20.20.41.png" width="45%"></img>
 <img src="./images/2020-08-18_20.20.48.png" width="45%"></img>
 <img src="./images/2020-08-18_20.20.58.png" width="45%"></img>
