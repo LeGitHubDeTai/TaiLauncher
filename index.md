@@ -1,7 +1,9 @@
 ## Tai Launcher | Minecraft
 
-###Bienvenu
+### Bienvenu
 sur le site du Tai Launcher.
+
+![Image](https://github.com/LeGitHubDeTai/TaiLauncher/blob/main/images/Tai%20Launcher.JPG)
 
 ```markdown
 Syntax highlighted code block
