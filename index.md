@@ -1,9 +1,8 @@
 ## Tai Launcher | Minecraft
 
-### Bienvenu
-sur le site du Tai Launcher.
+Bienvenu sur le site du Tai Launcher.
 
-![Image du launcher](https://github.com/LeGitHubDeTai/TaiLauncher/blob/main/images/Tai%20Launcher.JPG)
+![Image du launcher](https://github.com/LeGitHubDeTai/TaiLauncher/blob/main/images/Tai%20Launcher.JPG?raw=true)
 
 ## Voici la liste des versions prise en charge par le launcher:
 # Vanilla
